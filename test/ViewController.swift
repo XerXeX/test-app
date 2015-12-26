@@ -6,6 +6,7 @@
 //  Copyright © 2015 Jonatan Knudsen. All rights reserved.
 //
 // test
+// endnu en test
 
 import UIKit
 
